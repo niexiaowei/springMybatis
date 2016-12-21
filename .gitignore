@@ -1,0 +1,15 @@
+**/target/*
+**/out/*
+**/rebel.xml
+**/.settings
+*.iml
+*.war
+.idea/*
+**/*.eml
+.classpath
+.project
+*.tar.gz
+.gradle/
+gradle/
+build/
+*log
