@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.com.fero:fero-framework-web:1.4.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/fero/fero-framework-web/1.4.6-SNAPSHOT/fero-framework-web-1.4.6-20161011.120655-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/fero/fero-framework-web/1.4.6-SNAPSHOT/fero-framework-web-1.4.6-20161011.120655-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/fero/fero-framework-web/1.4.6-SNAPSHOT/fero-framework-web-1.4.6-20161011.120655-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
